@@ -27,7 +27,7 @@ jobs:
 
       - name: Extract project ZIP
         run: |
-          unzip -o PIXORA_AI_v0.6_Android_Starter.zip -d project
+          unzip -o PIXORA_AI_v0.6_Android_Target35_Fixed.zip -d project
 
       - name: Build Android APK
         run: |
